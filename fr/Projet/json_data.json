@@ -1,0 +1,1402 @@
+[
+    {
+        "NomFichier": "images/Birman_115.jpg",
+        "Image Poids": [
+            500,
+            358
+        ],
+        "Image Hauteur": 358,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/leonberger_142.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Bombay_68.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/japanese_chin_26.jpg",
+        "Image Poids": [
+            500,
+            334
+        ],
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/saint_bernard_149.jpg",
+        "Image Poids": [
+            405,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 405,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Ragdoll_41.jpg",
+        "Image Poids": [
+            500,
+            472
+        ],
+        "Image Hauteur": 472,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/japanese_chin_32.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Ragdoll_68.jpg",
+        "Image Poids": [
+            500,
+            467
+        ],
+        "Image Hauteur": 467,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Persian_202.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/scottish_terrier_143.jpg",
+        "Image Poids": [
+            463,
+            442
+        ],
+        "Image Hauteur": 442,
+        "Image Largeur": 463,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/english_setter_157.jpg",
+        "Image Poids": [
+            500,
+            364
+        ],
+        "Image Hauteur": 364,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Bombay_215.jpg",
+        "Image Poids": [
+            300,
+            225
+        ],
+        "Image Hauteur": 225,
+        "Image Largeur": 300,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/havanese_80.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Bengal_69.jpg",
+        "Image Poids": [
+            375,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/great_pyrenees_24.jpg",
+        "Image Poids": [
+            500,
+            411
+        ],
+        "Image Hauteur": 411,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/basset_hound_11.jpg",
+        "Image Poids": [
+            375,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Egyptian_Mau_127.jpg",
+        "Image Poids": [
+            200,
+            314
+        ],
+        "Image Hauteur": 314,
+        "Image Largeur": 200,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/american_bulldog_146.jpg",
+        "Image Poids": [
+            375,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/english_cocker_spaniel_15.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/newfoundland_156.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/great_pyrenees_165.jpg",
+        "Image Poids": [
+            333,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/newfoundland_116.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/saint_bernard_140.jpg",
+        "Image Poids": [
+            450,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 450,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Birman_39.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/american_pit_bull_terrier_19.jpg",
+        "Image Poids": [
+            333,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/samoyed_177.jpg",
+        "Image Poids": [
+            500,
+            334
+        ],
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/english_cocker_spaniel_167.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/american_pit_bull_terrier_118.jpg",
+        "Image Poids": [
+            300,
+            199
+        ],
+        "Image Hauteur": 199,
+        "Image Largeur": 300,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/staffordshire_bull_terrier_108.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Bengal_152.jpg",
+        "Image Poids": [
+            300,
+            225
+        ],
+        "Image Hauteur": 225,
+        "Image Largeur": 300,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Persian_98.jpg",
+        "Image Poids": [
+            375,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/shiba_inu_9.jpg",
+        "Image Poids": [
+            500,
+            465
+        ],
+        "Image Hauteur": 465,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/american_pit_bull_terrier_12.jpg",
+        "Image Poids": [
+            342,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 342,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/japanese_chin_144.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/german_shorthaired_196.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/english_setter_8.jpg",
+        "Image Poids": [
+            332,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 332,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/miniature_pinscher_63.jpg",
+        "Image Poids": [
+            321,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 321,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/leonberger_18.jpg",
+        "Image Poids": [
+            263,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 263,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/american_pit_bull_terrier_108.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/miniature_pinscher_112.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/yorkshire_terrier_124.jpg",
+        "Image Poids": [
+            300,
+            225
+        ],
+        "Image Hauteur": 225,
+        "Image Largeur": 300,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Egyptian_Mau_105.jpg",
+        "Image Poids": [
+            450,
+            427
+        ],
+        "Image Hauteur": 427,
+        "Image Largeur": 450,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/samoyed_25.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/staffordshire_bull_terrier_140.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/chihuahua_54.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/american_pit_bull_terrier_192.jpg",
+        "Image Poids": [
+            234,
+            300
+        ],
+        "Image Hauteur": 300,
+        "Image Largeur": 234,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Birman_132.jpg",
+        "Image Poids": [
+            500,
+            343
+        ],
+        "Image Hauteur": 343,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/shiba_inu_192.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/shiba_inu_87.jpg",
+        "Image Poids": [
+            375,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/english_setter_109.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/great_pyrenees_7.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/samoyed_161.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/shiba_inu_185.jpg",
+        "Image Poids": [
+            333,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Bengal_103.jpg",
+        "Image Poids": [
+            500,
+            371
+        ],
+        "Image Hauteur": 371,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/scottish_terrier_97.jpg",
+        "Image Poids": [
+            375,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/basset_hound_140.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Sphynx_57.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Birman_180.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/havanese_49.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/beagle_142.jpg",
+        "Image Poids": [
+            500,
+            334
+        ],
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/american_bulldog_47.jpg",
+        "Image Poids": [
+            376,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 376,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Persian_190.jpg",
+        "Image Poids": [
+            333,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/keeshond_21.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/boxer_19.jpg",
+        "Image Poids": [
+            375,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Sphynx_119.jpg",
+        "Image Poids": [
+            500,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/samoyed_93.jpg",
+        "Image Poids": [
+            500,
+            315
+        ],
+        "Image Hauteur": 315,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/staffordshire_bull_terrier_13.jpg",
+        "Image Poids": [
+            500,
+            352
+        ],
+        "Image Hauteur": 352,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/boxer_107.jpg",
+        "Image Poids": [
+            417,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 417,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/boxer_109.jpg",
+        "Image Poids": [
+            375,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/British_Shorthair_223.jpg",
+        "Image Poids": [
+            300,
+            225
+        ],
+        "Image Hauteur": 225,
+        "Image Largeur": 300,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/saint_bernard_110.jpg",
+        "Image Poids": [
+            500,
+            334
+        ],
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Birman_10.jpg",
+        "Image Poids": [
+            500,
+            330
+        ],
+        "Image Hauteur": 330,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Bengal_141.jpg",
+        "Image Poids": [
+            300,
+            263
+        ],
+        "Image Hauteur": 263,
+        "Image Largeur": 300,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/pomeranian_79.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/shiba_inu_73.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/newfoundland_41.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/leonberger_67.jpg",
+        "Image Poids": [
+            433,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 433,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Persian_144.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/great_pyrenees_76.jpg",
+        "Image Poids": [
+            333,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/newfoundland_19.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Egyptian_Mau_162.jpg",
+        "Image Poids": [
+            3264,
+            2448
+        ],
+        "Image Hauteur": 2448,
+        "Image Largeur": 3264,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/german_shorthaired_113.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/saint_bernard_126.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/beagle_93.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Bombay_73.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/pomeranian_68.jpg",
+        "Image Poids": [
+            333,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/pomeranian_184.jpg",
+        "Image Poids": [
+            281,
+            243
+        ],
+        "Image Hauteur": 243,
+        "Image Largeur": 281,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Egyptian_Mau_192.jpg",
+        "Image Poids": [
+            260,
+            388
+        ],
+        "Image Hauteur": 388,
+        "Image Largeur": 260,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/english_setter_104.jpg",
+        "Image Poids": [
+            409,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 409,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Russian_Blue_91.jpg",
+        "Image Poids": [
+            500,
+            375
+        ],
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Bengal_85.jpg",
+        "Image Poids": [
+            500,
+            434
+        ],
+        "Image Hauteur": 434,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Abyssinian_13.jpg",
+        "Image Poids": [
+            245,
+            280
+        ],
+        "Image Hauteur": 280,
+        "Image Largeur": 245,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Abyssinian_92.jpg",
+        "Image Poids": [
+            400,
+            500
+        ],
+        "Image Hauteur": 500,
+        "Image Largeur": 400,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/Maine_Coon_217.jpg",
+        "Image Poids": [
+            296,
+            300
+        ],
+        "Image Hauteur": 300,
+        "Image Largeur": 296,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Portrait",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/samoyed_100.jpg",
+        "Image Poids": [
+            500,
+            334
+        ],
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/staffordshire_bull_terrier_160.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/havanese_182.jpg",
+        "Image Poids": [
+            500,
+            480
+        ],
+        "Image Hauteur": 480,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/saint_bernard_131.jpg",
+        "Image Poids": [
+            500,
+            333
+        ],
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/pug_142.jpg",
+        "Image Poids": [
+            300,
+            225
+        ],
+        "Image Hauteur": 225,
+        "Image Largeur": 300,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    },
+    {
+        "NomFichier": "images/shiba_inu_203.jpg",
+        "Image Poids": [
+            500,
+            366
+        ],
+        "Image Hauteur": 366,
+        "Image Largeur": 500,
+        "Image Format": "JPEG",
+        "Image Mode": "RGB",
+        "Image orientation": "Paysage",
+        "Image is Animated": false,
+        "Frames in Image": 1
+    }
+]
