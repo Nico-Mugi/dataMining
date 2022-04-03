@@ -1,1402 +1,4832 @@
-[
-    {
-        "NomFichier": "images/Birman_115.jpg",
-        "Image Poids": [
-            500,
-            358
-        ],
-        "Image Hauteur": 358,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/leonberger_142.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Bombay_68.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/japanese_chin_26.jpg",
-        "Image Poids": [
-            500,
-            334
-        ],
-        "Image Hauteur": 334,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/saint_bernard_149.jpg",
-        "Image Poids": [
-            405,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 405,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Ragdoll_41.jpg",
-        "Image Poids": [
-            500,
-            472
-        ],
-        "Image Hauteur": 472,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/japanese_chin_32.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Ragdoll_68.jpg",
-        "Image Poids": [
-            500,
-            467
-        ],
-        "Image Hauteur": 467,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Persian_202.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/scottish_terrier_143.jpg",
-        "Image Poids": [
-            463,
-            442
-        ],
-        "Image Hauteur": 442,
-        "Image Largeur": 463,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/english_setter_157.jpg",
-        "Image Poids": [
-            500,
-            364
-        ],
-        "Image Hauteur": 364,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Bombay_215.jpg",
-        "Image Poids": [
-            300,
-            225
-        ],
-        "Image Hauteur": 225,
-        "Image Largeur": 300,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/havanese_80.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Bengal_69.jpg",
-        "Image Poids": [
-            375,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 375,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/great_pyrenees_24.jpg",
-        "Image Poids": [
-            500,
-            411
-        ],
-        "Image Hauteur": 411,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/basset_hound_11.jpg",
-        "Image Poids": [
-            375,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 375,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Egyptian_Mau_127.jpg",
-        "Image Poids": [
-            200,
-            314
-        ],
-        "Image Hauteur": 314,
-        "Image Largeur": 200,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/american_bulldog_146.jpg",
-        "Image Poids": [
-            375,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 375,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/english_cocker_spaniel_15.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/newfoundland_156.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/great_pyrenees_165.jpg",
-        "Image Poids": [
-            333,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 333,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/newfoundland_116.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/saint_bernard_140.jpg",
-        "Image Poids": [
-            450,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 450,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Birman_39.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/american_pit_bull_terrier_19.jpg",
-        "Image Poids": [
-            333,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 333,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/samoyed_177.jpg",
-        "Image Poids": [
-            500,
-            334
-        ],
-        "Image Hauteur": 334,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/english_cocker_spaniel_167.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/american_pit_bull_terrier_118.jpg",
-        "Image Poids": [
-            300,
-            199
-        ],
-        "Image Hauteur": 199,
-        "Image Largeur": 300,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/staffordshire_bull_terrier_108.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Bengal_152.jpg",
-        "Image Poids": [
-            300,
-            225
-        ],
-        "Image Hauteur": 225,
-        "Image Largeur": 300,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Persian_98.jpg",
-        "Image Poids": [
-            375,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 375,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/shiba_inu_9.jpg",
-        "Image Poids": [
-            500,
-            465
-        ],
+{
+    "shiba_inu_9.jpg": {
+        "Race": "shiba",
         "Image Hauteur": 465,
         "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "black",
+            "peru"
+        ]
     },
-    {
-        "NomFichier": "images/american_pit_bull_terrier_12.jpg",
-        "Image Poids": [
-            342,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 342,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/japanese_chin_144.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/german_shorthaired_196.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/english_setter_8.jpg",
-        "Image Poids": [
-            332,
-            500
-        ],
+    "english_setter_8.jpg": {
+        "Race": "english",
         "Image Hauteur": 500,
         "Image Largeur": 332,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "gray",
+            "silver"
+        ]
     },
-    {
-        "NomFichier": "images/miniature_pinscher_63.jpg",
-        "Image Poids": [
-            321,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 321,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/leonberger_18.jpg",
-        "Image Poids": [
-            263,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 263,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/american_pit_bull_terrier_108.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/miniature_pinscher_112.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
+    "great_pyrenees_7.jpg": {
+        "Race": "great",
         "Image Hauteur": 375,
         "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "lightblue",
+            "black"
+        ]
     },
-    {
-        "NomFichier": "images/yorkshire_terrier_124.jpg",
-        "Image Poids": [
-            300,
-            225
-        ],
-        "Image Hauteur": 225,
-        "Image Largeur": 300,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Egyptian_Mau_105.jpg",
-        "Image Poids": [
-            450,
-            427
-        ],
-        "Image Hauteur": 427,
-        "Image Largeur": 450,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/samoyed_25.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/staffordshire_bull_terrier_140.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/chihuahua_54.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/american_pit_bull_terrier_192.jpg",
-        "Image Poids": [
-            234,
-            300
-        ],
-        "Image Hauteur": 300,
-        "Image Largeur": 234,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Birman_132.jpg",
-        "Image Poids": [
-            500,
-            343
-        ],
-        "Image Hauteur": 343,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/shiba_inu_192.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/shiba_inu_87.jpg",
-        "Image Poids": [
-            375,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 375,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/english_setter_109.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/great_pyrenees_7.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/samoyed_161.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/shiba_inu_185.jpg",
-        "Image Poids": [
-            333,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 333,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Bengal_103.jpg",
-        "Image Poids": [
-            500,
-            371
-        ],
-        "Image Hauteur": 371,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/scottish_terrier_97.jpg",
-        "Image Poids": [
-            375,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 375,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/basset_hound_140.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Sphynx_57.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Birman_180.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/havanese_49.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/beagle_142.jpg",
-        "Image Poids": [
-            500,
-            334
-        ],
-        "Image Hauteur": 334,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/american_bulldog_47.jpg",
-        "Image Poids": [
-            376,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 376,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Persian_190.jpg",
-        "Image Poids": [
-            333,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 333,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/keeshond_21.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/boxer_19.jpg",
-        "Image Poids": [
-            375,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 375,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Sphynx_119.jpg",
-        "Image Poids": [
-            500,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/samoyed_93.jpg",
-        "Image Poids": [
-            500,
-            315
-        ],
-        "Image Hauteur": 315,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/staffordshire_bull_terrier_13.jpg",
-        "Image Poids": [
-            500,
-            352
-        ],
-        "Image Hauteur": 352,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/boxer_107.jpg",
-        "Image Poids": [
-            417,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 417,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/boxer_109.jpg",
-        "Image Poids": [
-            375,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 375,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/British_Shorthair_223.jpg",
-        "Image Poids": [
-            300,
-            225
-        ],
-        "Image Hauteur": 225,
-        "Image Largeur": 300,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/saint_bernard_110.jpg",
-        "Image Poids": [
-            500,
-            334
-        ],
-        "Image Hauteur": 334,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Birman_10.jpg",
-        "Image Poids": [
-            500,
-            330
-        ],
+    "Birman_10.jpg": {
+        "Race": "Birman",
         "Image Hauteur": 330,
         "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "lightgray",
+            "black"
+        ]
     },
-    {
-        "NomFichier": "images/Bengal_141.jpg",
-        "Image Poids": [
-            300,
-            263
-        ],
-        "Image Hauteur": 263,
-        "Image Largeur": 300,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/pomeranian_79.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
+    "great_pyrenees_4.jpg": {
+        "Race": "great",
         "Image Hauteur": 333,
         "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "rosybrown"
+        ]
     },
-    {
-        "NomFichier": "images/shiba_inu_73.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/newfoundland_41.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/leonberger_67.jpg",
-        "Image Poids": [
-            433,
-            500
-        ],
+    "staffordshire_bull_terrier_5.jpg": {
+        "Race": "staffordshire",
         "Image Hauteur": 500,
-        "Image Largeur": 433,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Persian_144.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/great_pyrenees_76.jpg",
-        "Image Poids": [
-            333,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 333,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/newfoundland_19.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Egyptian_Mau_162.jpg",
-        "Image Poids": [
-            3264,
-            2448
-        ],
-        "Image Hauteur": 2448,
-        "Image Largeur": 3264,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/german_shorthaired_113.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/saint_bernard_126.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/beagle_93.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Bombay_73.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/pomeranian_68.jpg",
-        "Image Poids": [
-            333,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 333,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/pomeranian_184.jpg",
-        "Image Poids": [
-            281,
-            243
-        ],
-        "Image Hauteur": 243,
-        "Image Largeur": 281,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Egyptian_Mau_192.jpg",
-        "Image Poids": [
-            260,
-            388
-        ],
-        "Image Hauteur": 388,
-        "Image Largeur": 260,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/english_setter_104.jpg",
-        "Image Poids": [
-            409,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 409,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Russian_Blue_91.jpg",
-        "Image Poids": [
-            500,
-            375
-        ],
-        "Image Hauteur": 375,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Bengal_85.jpg",
-        "Image Poids": [
-            500,
-            434
-        ],
-        "Image Hauteur": 434,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Abyssinian_13.jpg",
-        "Image Poids": [
-            245,
-            280
-        ],
-        "Image Hauteur": 280,
-        "Image Largeur": 245,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Abyssinian_92.jpg",
-        "Image Poids": [
-            400,
-            500
-        ],
-        "Image Hauteur": 500,
-        "Image Largeur": 400,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/Maine_Coon_217.jpg",
-        "Image Poids": [
-            296,
-            300
-        ],
-        "Image Hauteur": 300,
         "Image Largeur": 296,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Portrait",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "silver",
+            "darkolivegreen"
+        ]
     },
-    {
-        "NomFichier": "images/samoyed_100.jpg",
-        "Image Poids": [
-            500,
-            334
-        ],
+    "Egyptian_Mau_6.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkgray",
+            "darkcyan",
+            "dimgray"
+        ]
+    },
+    "keeshond_5.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "silver",
+            "gray"
+        ]
+    },
+    "Birman_6.jpg": {
+        "Race": "Birman",
         "Image Hauteur": 334,
         "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "darkgray",
+            "black"
+        ]
     },
-    {
-        "NomFichier": "images/staffordshire_bull_terrier_160.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
-        "Image Hauteur": 333,
+    "miniature_pinscher_6.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 430,
+        "Image Largeur": 437,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "staffordshire_bull_terrier_4.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 377,
         "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "saddlebrown",
+            "darksalmon",
+            "darkslategray"
+        ]
     },
-    {
-        "NomFichier": "images/havanese_182.jpg",
-        "Image Poids": [
-            500,
-            480
-        ],
+    "havanese_3.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "tan",
+            "darkslategray"
+        ]
+    },
+    "Maine_Coon_9.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 400,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "peru",
+            "darkslategray"
+        ]
+    },
+    "Bombay_6.jpg": {
+        "Race": "Bombay",
         "Image Hauteur": 480,
-        "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "saddlebrown",
+            "sienna",
+            "black"
+        ]
     },
-    {
-        "NomFichier": "images/saint_bernard_131.jpg",
-        "Image Poids": [
-            500,
-            333
-        ],
+    "wheaten_terrier_9.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "sandybrown",
+            "saddlebrown",
+            "peru"
+        ]
+    },
+    "japanese_chin_10.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 410,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "gainsboro",
+            "darkolivegreen"
+        ]
+    },
+    "Egyptian_Mau_1.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 175,
+        "Image Largeur": 250,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkgray",
+            "white",
+            "dimgray"
+        ]
+    },
+    "British_Shorthair_3.jpg": {
+        "Race": "British",
+        "Image Hauteur": 196,
+        "Image Largeur": 275,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "rosybrown",
+            "sienna"
+        ]
+    },
+    "wheaten_terrier_6.jpg": {
+        "Race": "wheaten",
         "Image Hauteur": 333,
         "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "sandybrown",
+            "saddlebrown"
+        ]
     },
-    {
-        "NomFichier": "images/pug_142.jpg",
-        "Image Poids": [
-            300,
-            225
-        ],
-        "Image Hauteur": 225,
-        "Image Largeur": 300,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
-    },
-    {
-        "NomFichier": "images/shiba_inu_203.jpg",
-        "Image Poids": [
-            500,
-            366
-        ],
-        "Image Hauteur": 366,
+    "newfoundland_2.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 333,
         "Image Largeur": 500,
-        "Image Format": "JPEG",
-        "Image Mode": "RGB",
-        "Image orientation": "Paysage",
-        "Image is Animated": false,
-        "Frames in Image": 1
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "silver",
+            "dimgray"
+        ]
+    },
+    "British_Shorthair_6.jpg": {
+        "Race": "British",
+        "Image Hauteur": 196,
+        "Image Largeur": 275,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "gainsboro",
+            "darkgray"
+        ]
+    },
+    "chihuahua_5.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "darkslategray",
+            "tan"
+        ]
+    },
+    "german_shorthaired_8.jpg": {
+        "Race": "german",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "sienna",
+            "black",
+            "wheat"
+        ]
+    },
+    "american_pit_bull_terrier_6.jpg": {
+        "Race": "american",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gainsboro",
+            "darkolivegreen",
+            "darkgray"
+        ]
+    },
+    "samoyed_4.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 500,
+        "Image Largeur": 290,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkslategray",
+            "silver"
+        ]
+    },
+    "yorkshire_terrier_7.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 294,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "olivedrab",
+            "darkslategray",
+            "darkseagreen"
+        ]
+    },
+    "american_pit_bull_terrier_2.jpg": {
+        "Race": "american",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "tan",
+            "dimgray"
+        ]
+    },
+    "havanese_8.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 400,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "darkolivegreen",
+            "lightgray"
+        ]
+    },
+    "Egyptian_Mau_5.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 184,
+        "Image Largeur": 225,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "miniature_pinscher_1.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "sienna"
+        ]
+    },
+    "staffordshire_bull_terrier_7.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "beagle_6.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 385,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "olivedrab",
+            "darkkhaki",
+            "darkolivegreen"
+        ]
+    },
+    "pomeranian_7.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 332,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gainsboro",
+            "dimgray",
+            "darkgray"
+        ]
+    },
+    "Siamese_9.jpg": {
+        "Race": "Siamese",
+        "Image Hauteur": 798,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "steelblue",
+            "powderblue",
+            "dimgray"
+        ]
+    },
+    "basset_hound_10.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "gainsboro",
+            "darkslategray"
+        ]
+    },
+    "japanese_chin_1.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gainsboro",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "newfoundland_4.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 500,
+        "Image Largeur": 384,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "lightgray",
+            "black",
+            "gray"
+        ]
+    },
+    "leonberger_10.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "olive",
+            "darkkhaki"
+        ]
+    },
+    "leonberger_1.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 500,
+        "Image Largeur": 396,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "darkkhaki",
+            "darkslategray"
+        ]
+    },
+    "wheaten_terrier_2.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "saint_bernard_4.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "saddlebrown",
+            "antiquewhite"
+        ]
+    },
+    "Bombay_9.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "silver",
+            "black",
+            "dimgray"
+        ]
+    },
+    "american_pit_bull_terrier_8.jpg": {
+        "Race": "american",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkgray",
+            "darkslategray"
+        ]
+    },
+    "Egyptian_Mau_7.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 250,
+        "Image Largeur": 350,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "black",
+            "silver"
+        ]
+    },
+    "yorkshire_terrier_2.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 500,
+        "Image Largeur": 334,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "gray"
+        ]
+    },
+    "great_pyrenees_6.jpg": {
+        "Race": "great",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "dimgray"
+        ]
+    },
+    "Persian_8.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 332,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "darkgray"
+        ]
+    },
+    "pomeranian_9.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 332,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "lightgray",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "samoyed_6.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "gray",
+            "silver"
+        ]
+    },
+    "havanese_9.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "lightgray",
+            "gray"
+        ]
+    },
+    "Persian_9.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 353,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "lightgray"
+        ]
+    },
+    "leonberger_5.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 500,
+        "Image Largeur": 493,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "lightgray",
+            "darkolivegreen",
+            "gray"
+        ]
+    },
+    "japanese_chin_5.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "darkgray"
+        ]
+    },
+    "american_bulldog_2.jpg": {
+        "Race": "american",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "gray",
+            "darkolivegreen"
+        ]
+    },
+    "keeshond_3.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 331,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "whitesmoke",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "chihuahua_4.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "olivedrab",
+            "black",
+            "burlywood"
+        ]
+    },
+    "Maine_Coon_6.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "gainsboro",
+            "dimgray"
+        ]
+    },
+    "Maine_Coon_8.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 250,
+        "Image Largeur": 350,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "lightgray",
+            "gray"
+        ]
+    },
+    "Abyssinian_9.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 385,
+        "Image Largeur": 450,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "wheat",
+            "dimgray",
+            "whitesmoke"
+        ]
+    },
+    "Abyssinian_8.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "lightslategray",
+            "black",
+            "dimgray"
+        ]
+    },
+    "saint_bernard_1.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "lightgray",
+            "dimgray"
+        ]
+    },
+    "leonberger_8.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "gray",
+            "gainsboro"
+        ]
+    },
+    "Bombay_1.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "snow",
+            "darkslategray",
+            "darkkhaki"
+        ]
+    },
+    "keeshond_7.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "dimgray",
+            "darkgray"
+        ]
+    },
+    "beagle_3.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "rosybrown",
+            "gainsboro",
+            "darkslategray"
+        ]
+    },
+    "english_setter_10.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "antiquewhite",
+            "dimgray"
+        ]
+    },
+    "Abyssinian_3.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 869,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "gray",
+            "darkslategray"
+        ]
+    },
+    "boxer_5.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "Bengal_5.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 327,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkslategray",
+            "wheat"
+        ]
+    },
+    "newfoundland_9.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 448,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "darkgray",
+            "darkslategray"
+        ]
+    },
+    "pomeranian_6.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "black",
+            "dimgray"
+        ]
+    },
+    "Birman_8.jpg": {
+        "Race": "Birman",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "black"
+        ]
+    },
+    "leonberger_4.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 369,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkolivegreen",
+            "black"
+        ]
+    },
+    "basset_hound_8.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 332,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "black",
+            "gray"
+        ]
+    },
+    "saint_bernard_10.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "darkgray",
+            "darkolivegreen"
+        ]
+    },
+    "shiba_inu_1.jpg": {
+        "Race": "shiba",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "khaki",
+            "darkslategray",
+            "sienna"
+        ]
+    },
+    "British_Shorthair_8.jpg": {
+        "Race": "British",
+        "Image Hauteur": 320,
+        "Image Largeur": 229,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "dimgray",
+            "darkgray"
+        ]
+    },
+    "havanese_2.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "Bombay_5.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 853,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "snow",
+            "black",
+            "dimgray"
+        ]
+    },
+    "Ragdoll_6.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 424,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "midnightblue",
+            "lightgray",
+            "darkslateblue"
+        ]
+    },
+    "basset_hound_3.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 481,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "silver"
+        ]
+    },
+    "miniature_pinscher_8.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "indianred",
+            "darkslategray",
+            "rosybrown"
+        ]
+    },
+    "Egyptian_Mau_3.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslateblue",
+            "darkgray",
+            "darkslategray"
+        ]
+    },
+    "scottish_terrier_9.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "lightsteelblue",
+            "sienna"
+        ]
+    },
+    "japanese_chin_2.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 339,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "gainsboro",
+            "rosybrown"
+        ]
+    },
+    "staffordshire_bull_terrier_6.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 500,
+        "Image Largeur": 452,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "beagle_9.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 500,
+        "Image Largeur": 357,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "burlywood",
+            "sienna"
+        ]
+    },
+    "Birman_1.jpg": {
+        "Race": "Birman",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "gray"
+        ]
+    },
+    "scottish_terrier_8.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "tan",
+            "black",
+            "darkolivegreen"
+        ]
+    },
+    "pomeranian_1.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 500,
+        "Image Largeur": 494,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "gray",
+            "darkolivegreen"
+        ]
+    },
+    "keeshond_9.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 480,
+        "Image Largeur": 320,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "tan",
+            "darkslategray"
+        ]
+    },
+    "leonberger_9.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "rosybrown",
+            "dimgray"
+        ]
+    },
+    "pomeranian_5.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "black",
+            "darkgray"
+        ]
+    },
+    "saint_bernard_6.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "darkslategray"
+        ]
+    },
+    "Bombay_7.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "darkgray",
+            "whitesmoke"
+        ]
+    },
+    "newfoundland_1.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "linen",
+            "black",
+            "dimgray"
+        ]
+    },
+    "german_shorthaired_4.jpg": {
+        "Race": "german",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "darkkhaki",
+            "olivedrab"
+        ]
+    },
+    "shiba_inu_4.jpg": {
+        "Race": "shiba",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "black",
+            "dimgray"
+        ]
+    },
+    "japanese_chin_6.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "gray",
+            "lightgray"
+        ]
+    },
+    "american_bulldog_10.jpg": {
+        "Race": "american",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "black"
+        ]
+    },
+    "beagle_5.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "yellowgreen",
+            "darkolivegreen",
+            "khaki"
+        ]
+    },
+    "Egyptian_Mau_8.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 403,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "cadetblue",
+            "silver",
+            "darkslategray"
+        ]
+    },
+    "staffordshire_bull_terrier_8.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 408,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "lavender",
+            "darkslategray"
+        ]
+    },
+    "pomeranian_2.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "darkgray",
+            "darkslategray"
+        ]
+    },
+    "pug_9.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 500,
+        "Image Largeur": 370,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "gainsboro",
+            "darkgray"
+        ]
+    },
+    "yorkshire_terrier_10.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "scottish_terrier_4.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 480,
+        "Image Largeur": 480,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "gray",
+            "gainsboro"
+        ]
+    },
+    "newfoundland_7.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "silver",
+            "black"
+        ]
+    },
+    "samoyed_3.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "lightgray"
+        ]
+    },
+    "Bombay_8.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 246,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "peru",
+            "darkslategray",
+            "black"
+        ]
+    },
+    "Bengal_10.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkolivegreen",
+            "gainsboro"
+        ]
+    },
+    "havanese_5.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "lightgray",
+            "gray"
+        ]
+    },
+    "pug_3.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 500,
+        "Image Largeur": 332,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "beagle_7.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "darkolivegreen"
+        ]
+    },
+    "Maine_Coon_3.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 247,
+        "Image Largeur": 241,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "brown",
+            "silver",
+            "darkslategray"
+        ]
+    },
+    "wheaten_terrier_8.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 433,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "maroon",
+            "sandybrown",
+            "sienna"
+        ]
+    },
+    "beagle_10.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "tan"
+        ]
+    },
+    "Bombay_3.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 250,
+        "Image Largeur": 350,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "lavender",
+            "gray"
+        ]
+    },
+    "staffordshire_bull_terrier_9.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "gainsboro",
+            "black"
+        ]
+    },
+    "Maine_Coon_5.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 310,
+        "Image Largeur": 225,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "lightgray",
+            "gray"
+        ]
+    },
+    "leonberger_3.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkkhaki",
+            "whitesmoke",
+            "darkslategray"
+        ]
+    },
+    "Bengal_8.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "gainsboro"
+        ]
+    },
+    "american_bulldog_8.jpg": {
+        "Race": "american",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "steelblue"
+        ]
+    },
+    "pomeranian_8.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 243,
+        "Image Largeur": 432,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "Birman_3.jpg": {
+        "Race": "Birman",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "boxer_7.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 476,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "saddlebrown",
+            "black",
+            "peru"
+        ]
+    },
+    "basset_hound_4.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 500,
+        "Image Largeur": 334,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "silver",
+            "darkolivegreen"
+        ]
+    },
+    "saint_bernard_2.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "saddlebrown",
+            "silver",
+            "black"
+        ]
+    },
+    "english_cocker_spaniel_6.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 377,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "saddlebrown",
+            "wheat",
+            "gray"
+        ]
+    },
+    "english_setter_7.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "burlywood",
+            "black",
+            "sienna"
+        ]
+    },
+    "Siamese_5.jpg": {
+        "Race": "Siamese",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gainsboro",
+            "darkolivegreen",
+            "rosybrown"
+        ]
+    },
+    "scottish_terrier_2.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "snow",
+            "darkkhaki"
+        ]
+    },
+    "american_pit_bull_terrier_10.jpg": {
+        "Race": "american",
+        "Image Hauteur": 368,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gainsboro",
+            "black",
+            "darkseagreen"
+        ]
+    },
+    "Bombay_4.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 740,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "darkorchid",
+            "dimgray"
+        ]
+    },
+    "British_Shorthair_2.jpg": {
+        "Race": "British",
+        "Image Hauteur": 275,
+        "Image Largeur": 247,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "gray",
+            "darkslategray"
+        ]
+    },
+    "shiba_inu_7.jpg": {
+        "Race": "shiba",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "darkkhaki",
+            "black"
+        ]
+    },
+    "Persian_7.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "black",
+            "silver"
+        ]
+    },
+    "great_pyrenees_9.jpg": {
+        "Race": "great",
+        "Image Hauteur": 480,
+        "Image Largeur": 377,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkslategray",
+            "darkgray"
+        ]
+    },
+    "Maine_Coon_1.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 226,
+        "Image Largeur": 174,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "silver",
+            "saddlebrown"
+        ]
+    },
+    "Birman_7.jpg": {
+        "Race": "Birman",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkgray",
+            "gainsboro",
+            "darkslategray"
+        ]
+    },
+    "Maine_Coon_10.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 900,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "darkolivegreen",
+            "rosybrown"
+        ]
+    },
+    "english_setter_3.jpg": {
+        "Race": "english",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "gray"
+        ]
+    },
+    "newfoundland_3.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "gray",
+            "silver"
+        ]
+    },
+    "english_setter_2.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "tan",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "havanese_6.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "silver",
+            "darkolivegreen"
+        ]
+    },
+    "Persian_4.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 700,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "gray",
+            "darkolivegreen"
+        ]
+    },
+    "Egyptian_Mau_10.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 715,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "lightslategray",
+            "darkslategray"
+        ]
+    },
+    "newfoundland_8.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "gainsboro",
+            "darkseagreen"
+        ]
+    },
+    "Abyssinian_5.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 150,
+        "Image Largeur": 200,
+        "Mode": "RGBA",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "gainsboro",
+            "gray"
+        ]
+    },
+    "shiba_inu_3.jpg": {
+        "Race": "shiba",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "gray",
+            "darkolivegreen"
+        ]
+    },
+    "wheaten_terrier_7.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 500,
+        "Image Largeur": 366,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "khaki",
+            "sienna"
+        ]
+    },
+    "yorkshire_terrier_4.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkgray",
+            "darkslategray"
+        ]
+    },
+    "american_bulldog_7.jpg": {
+        "Race": "american",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "black",
+            "lavender"
+        ]
+    },
+    "Egyptian_Mau_2.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 289,
+        "Image Largeur": 200,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "great_pyrenees_8.jpg": {
+        "Race": "great",
+        "Image Hauteur": 480,
+        "Image Largeur": 356,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkolivegreen",
+            "wheat"
+        ]
+    },
+    "chihuahua_7.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 357,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "black",
+            "darkolivegreen"
+        ]
+    },
+    "Bengal_2.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 505,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "rosybrown",
+            "lightgray",
+            "dimgray"
+        ]
+    },
+    "basset_hound_7.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 332,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "black",
+            "gray"
+        ]
+    },
+    "pug_1.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 374,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "dimgray"
+        ]
+    },
+    "havanese_4.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "gray",
+            "silver"
+        ]
+    },
+    "yorkshire_terrier_8.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 500,
+        "Image Largeur": 489,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "darkgray",
+            "gray"
+        ]
+    },
+    "pomeranian_10.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "silver",
+            "steelblue"
+        ]
+    },
+    "chihuahua_8.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "gray"
+        ]
+    },
+    "basset_hound_9.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "scottish_terrier_10.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "silver"
+        ]
+    },
+    "german_shorthaired_6.jpg": {
+        "Race": "german",
+        "Image Hauteur": 500,
+        "Image Largeur": 334,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "silver"
+        ]
+    },
+    "Ragdoll_1.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "lightgray",
+            "midnightblue",
+            "gray"
+        ]
+    },
+    "Bombay_10.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "snow",
+            "black",
+            "darkseagreen"
+        ]
+    },
+    "american_bulldog_9.jpg": {
+        "Race": "american",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "miniature_pinscher_7.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "havanese_10.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "silver",
+            "darkolivegreen",
+            "gray"
+        ]
+    },
+    "japanese_chin_3.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 350,
+        "Image Largeur": 467,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "thistle",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "saint_bernard_5.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "silver",
+            "darkslategray"
+        ]
+    },
+    "Abyssinian_2.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 473,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "rosybrown",
+            "dimgray"
+        ]
+    },
+    "chihuahua_9.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 500,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "scottish_terrier_3.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "lightgray",
+            "gray"
+        ]
+    },
+    "Bengal_6.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 281,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "tan",
+            "darkslategray",
+            "peru"
+        ]
+    },
+    "pug_5.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 292,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "antiquewhite",
+            "darkolivegreen",
+            "silver"
+        ]
+    },
+    "yorkshire_terrier_1.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkkhaki",
+            "tan",
+            "darkolivegreen"
+        ]
+    },
+    "english_cocker_spaniel_8.jpg": {
+        "Race": "english",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "lightgray"
+        ]
+    },
+    "american_bulldog_6.jpg": {
+        "Race": "american",
+        "Image Hauteur": 376,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "maroon",
+            "silver",
+            "indianred"
+        ]
+    },
+    "american_pit_bull_terrier_1.jpg": {
+        "Race": "american",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "rosybrown",
+            "darkslategray"
+        ]
+    },
+    "saint_bernard_3.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "maroon",
+            "silver",
+            "sienna"
+        ]
+    },
+    "great_pyrenees_3.jpg": {
+        "Race": "great",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "silver",
+            "darkolivegreen"
+        ]
+    },
+    "Persian_2.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 250,
+        "Image Largeur": 350,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "burlywood",
+            "darkslategray",
+            "peru"
+        ]
+    },
+    "english_setter_5.jpg": {
+        "Race": "english",
+        "Image Hauteur": 400,
+        "Image Largeur": 300,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "rosybrown",
+            "darkslategray"
+        ]
+    },
+    "pug_6.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 337,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "darkolivegreen",
+            "gainsboro"
+        ]
+    },
+    "pug_2.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 500,
+        "Image Largeur": 332,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "Persian_10.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkgray",
+            "black"
+        ]
+    },
+    "wheaten_terrier_10.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 500,
+        "Image Largeur": 339,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "gray",
+            "gainsboro"
+        ]
+    },
+    "Ragdoll_5.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 900,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "lightgray",
+            "midnightblue",
+            "gray"
+        ]
+    },
+    "scottish_terrier_5.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "tan",
+            "dimgray"
+        ]
+    },
+    "english_cocker_spaniel_4.jpg": {
+        "Race": "english",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "gray"
+        ]
+    },
+    "beagle_1.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 400,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "plum",
+            "sienna"
+        ]
+    },
+    "Birman_2.jpg": {
+        "Race": "Birman",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "lightslategray",
+            "black"
+        ]
+    },
+    "english_cocker_spaniel_9.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "black",
+            "darkslategray"
+        ]
+    },
+    "Persian_3.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 398,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkgray",
+            "midnightblue",
+            "gainsboro"
+        ]
+    },
+    "american_pit_bull_terrier_5.jpg": {
+        "Race": "american",
+        "Image Hauteur": 462,
+        "Image Largeur": 456,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "gainsboro",
+            "dimgray"
+        ]
+    },
+    "yorkshire_terrier_6.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkseagreen",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "Birman_9.jpg": {
+        "Race": "Birman",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "black",
+            "gainsboro"
+        ]
+    },
+    "samoyed_1.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "black",
+            "darkgray"
+        ]
+    },
+    "Abyssinian_7.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 266,
+        "Image Largeur": 250,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "lightgray"
+        ]
+    },
+    "great_pyrenees_2.jpg": {
+        "Race": "great",
+        "Image Hauteur": 500,
+        "Image Largeur": 422,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "lightgray",
+            "gray",
+            "darkslategray"
+        ]
+    },
+    "american_pit_bull_terrier_4.jpg": {
+        "Race": "american",
+        "Image Hauteur": 332,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "wheat",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "great_pyrenees_1.jpg": {
+        "Race": "great",
+        "Image Hauteur": 480,
+        "Image Largeur": 351,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "tan",
+            "gray"
+        ]
+    },
+    "miniature_pinscher_10.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "lightsteelblue",
+            "black",
+            "gray"
+        ]
+    },
+    "japanese_chin_9.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 393,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "black",
+            "dimgray"
+        ]
+    },
+    "Sphynx_3.jpg": {
+        "Race": "Sphynx",
+        "Image Hauteur": 250,
+        "Image Largeur": 350,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "lightgray",
+            "gray"
+        ]
+    },
+    "Bengal_4.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "tan",
+            "black",
+            "olivedrab"
+        ]
+    },
+    "pug_4.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "lightgray",
+            "black",
+            "gray"
+        ]
+    },
+    "basset_hound_1.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkgray",
+            "black"
+        ]
+    },
+    "pomeranian_4.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "lightgray"
+        ]
+    },
+    "Bengal_7.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 312,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "burlywood",
+            "black",
+            "chocolate"
+        ]
+    },
+    "Ragdoll_4.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 561,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "gainsboro"
+        ]
+    },
+    "wheaten_terrier_3.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 313,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gainsboro",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "newfoundland_6.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gainsboro",
+            "darkslategray",
+            "darkseagreen"
+        ]
+    },
+    "havanese_7.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "darkgray",
+            "darkolivegreen"
+        ]
+    },
+    "Abyssinian_6.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 500,
+        "Image Largeur": 414,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "black",
+            "saddlebrown"
+        ]
+    },
+    "english_setter_9.jpg": {
+        "Race": "english",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "sienna"
+        ]
+    },
+    "British_Shorthair_9.jpg": {
+        "Race": "British",
+        "Image Hauteur": 224,
+        "Image Largeur": 298,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "rosybrown",
+            "darkcyan"
+        ]
+    },
+    "staffordshire_bull_terrier_2.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 282,
+        "Image Largeur": 500,
+        "Mode": "L",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "gainsboro",
+            "gray"
+        ]
+    },
+    "samoyed_9.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "keeshond_8.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 480,
+        "Image Largeur": 320,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "dimgray"
+        ]
+    },
+    "shiba_inu_5.jpg": {
+        "Race": "shiba",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "lightblue",
+            "dimgray"
+        ]
+    },
+    "german_shorthaired_2.jpg": {
+        "Race": "german",
+        "Image Hauteur": 374,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "gray",
+            "lightgray"
+        ]
+    },
+    "boxer_9.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 500,
+        "Image Largeur": 372,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "lightgray"
+        ]
+    },
+    "Persian_6.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 500,
+        "Image Largeur": 334,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "black",
+            "silver"
+        ]
+    },
+    "Russian_Blue_8.jpg": {
+        "Race": "Russian",
+        "Image Hauteur": 316,
+        "Image Largeur": 194,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "gray",
+            "thistle"
+        ]
+    },
+    "yorkshire_terrier_3.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 500,
+        "Image Largeur": 334,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "darkolivegreen",
+            "linen"
+        ]
+    },
+    "staffordshire_bull_terrier_3.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "sienna",
+            "black",
+            "burlywood"
+        ]
+    },
+    "chihuahua_10.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "rosybrown",
+            "black"
+        ]
+    },
+    "samoyed_10.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 357,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "lightgray",
+            "black",
+            "gray"
+        ]
+    },
+    "pug_7.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "keeshond_10.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 480,
+        "Image Largeur": 320,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "samoyed_8.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "lavender",
+            "darkslategray"
+        ]
+    },
+    "saint_bernard_9.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "saddlebrown",
+            "gainsboro"
+        ]
+    },
+    "wheaten_terrier_1.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "saddlebrown",
+            "tan",
+            "gray"
+        ]
+    },
+    "British_Shorthair_10.jpg": {
+        "Race": "British",
+        "Image Hauteur": 350,
+        "Image Largeur": 233,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "skyblue",
+            "darkslategray"
+        ]
+    },
+    "chihuahua_2.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "lightgray",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "japanese_chin_7.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 499,
+        "Image Largeur": 432,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "rosybrown",
+            "dimgray"
+        ]
+    },
+    "beagle_8.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 500,
+        "Image Largeur": 475,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "gainsboro",
+            "gray"
+        ]
+    },
+    "basset_hound_6.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 332,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "rosybrown",
+            "black"
+        ]
+    },
+    "english_cocker_spaniel_5.jpg": {
+        "Race": "english",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "lightsteelblue",
+            "darkslategray"
+        ]
+    },
+    "Sphynx_8.jpg": {
+        "Race": "Sphynx",
+        "Image Hauteur": 410,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "saddlebrown",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "Ragdoll_2.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 196,
+        "Image Largeur": 275,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "indigo",
+            "lightgray",
+            "gray"
+        ]
+    },
+    "miniature_pinscher_2.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 342,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "lightgray",
+            "darkslategray"
+        ]
+    },
+    "miniature_pinscher_3.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "peru",
+            "gainsboro",
+            "darkolivegreen"
+        ]
+    },
+    "Sphynx_5.jpg": {
+        "Race": "Sphynx",
+        "Image Hauteur": 390,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "indianred",
+            "darksalmon",
+            "sienna"
+        ]
+    },
+    "basset_hound_2.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkgray",
+            "black"
+        ]
+    },
+    "english_setter_1.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 266,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "indianred",
+            "darkslategray",
+            "lightgray"
+        ]
+    },
+    "yorkshire_terrier_9.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "darkolivegreen",
+            "snow"
+        ]
+    },
+    "samoyed_2.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkgray",
+            "gainsboro"
+        ]
+    },
+    "shiba_inu_8.jpg": {
+        "Race": "shiba",
+        "Image Hauteur": 281,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "lightgray",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "english_cocker_spaniel_1.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "lightslategray",
+            "black"
+        ]
+    },
+    "chihuahua_3.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "german_shorthaired_9.jpg": {
+        "Race": "german",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "lightgray"
+        ]
+    },
+    "staffordshire_bull_terrier_10.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "gray"
+        ]
+    },
+    "Egyptian_Mau_9.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 437,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkslategray",
+            "darkgray"
+        ]
+    },
+    "Persian_1.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 196,
+        "Image Largeur": 275,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "lightsteelblue",
+            "gray"
+        ]
+    },
+    "shiba_inu_10.jpg": {
+        "Race": "shiba",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "dimgray",
+            "darkslategray"
+        ]
+    },
+    "Maine_Coon_7.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "tan",
+            "midnightblue",
+            "sienna"
+        ]
+    },
+    "Ragdoll_10.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "boxer_8.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "olivedrab",
+            "tan",
+            "darkolivegreen"
+        ]
+    },
+    "chihuahua_6.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "steelblue",
+            "peru",
+            "darkolivegreen"
+        ]
+    },
+    "Ragdoll_3.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 250,
+        "Image Largeur": 350,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslateblue",
+            "gainsboro",
+            "lightslategray"
+        ]
+    },
+    "english_cocker_spaniel_2.jpg": {
+        "Race": "english",
+        "Image Hauteur": 389,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "gainsboro",
+            "gray"
+        ]
+    },
+    "leonberger_7.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "saint_bernard_7.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "darkgray"
+        ]
+    },
+    "Sphynx_1.jpg": {
+        "Race": "Sphynx",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "black",
+            "rosybrown"
+        ]
+    },
+    "scottish_terrier_6.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 500,
+        "Image Largeur": 332,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "lightblue",
+            "gray"
+        ]
+    },
+    "Birman_4.jpg": {
+        "Race": "Birman",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "silver",
+            "darkslategray"
+        ]
+    },
+    "newfoundland_5.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 353,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "linen",
+            "gray"
+        ]
+    },
+    "beagle_4.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "dimgray"
+        ]
+    },
+    "american_pit_bull_terrier_7.jpg": {
+        "Race": "american",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "darkslategray",
+            "tan"
+        ]
+    },
+    "great_pyrenees_10.jpg": {
+        "Race": "great",
+        "Image Hauteur": 480,
+        "Image Largeur": 415,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "darkolivegreen",
+            "wheat"
+        ]
+    },
+    "miniature_pinscher_4.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "lightgray",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "Egyptian_Mau_4.jpg": {
+        "Race": "Egyptian",
+        "Image Hauteur": 195,
+        "Image Largeur": 200,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "tan",
+            "saddlebrown"
+        ]
+    },
+    "Russian_Blue_10.jpg": {
+        "Race": "Russian",
+        "Image Hauteur": 350,
+        "Image Largeur": 233,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "lightslategray",
+            "darkcyan",
+            "teal"
+        ]
+    },
+    "american_bulldog_5.jpg": {
+        "Race": "american",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "gainsboro",
+            "gray"
+        ]
+    },
+    "pug_8.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "darkslategray",
+            "gainsboro"
+        ]
+    },
+    "german_shorthaired_7.jpg": {
+        "Race": "german",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "wheat",
+            "darkslategray"
+        ]
+    },
+    "Bengal_9.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gainsboro",
+            "darkslategray",
+            "steelblue"
+        ]
+    },
+    "scottish_terrier_7.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "silver",
+            "darkslategray"
+        ]
+    },
+    "yorkshire_terrier_5.jpg": {
+        "Race": "yorkshire",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgreen",
+            "olivedrab",
+            "tan"
+        ]
+    },
+    "german_shorthaired_1.jpg": {
+        "Race": "german",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "powderblue",
+            "darkgray"
+        ]
+    },
+    "Siamese_6.jpg": {
+        "Race": "Siamese",
+        "Image Hauteur": 275,
+        "Image Largeur": 183,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "silver",
+            "darkolivegreen",
+            "linen"
+        ]
+    },
+    "saint_bernard_8.jpg": {
+        "Race": "saint",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "linen",
+            "gray"
+        ]
+    },
+    "basset_hound_5.jpg": {
+        "Race": "basset",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "newfoundland_10.jpg": {
+        "Race": "newfoundland",
+        "Image Hauteur": 500,
+        "Image Largeur": 335,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "tan",
+            "dimgray"
+        ]
+    },
+    "keeshond_4.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 338,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "rosybrown",
+            "dimgray"
+        ]
+    },
+    "Abyssinian_1.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 400,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "darkolivegreen"
+        ]
+    },
+    "german_shorthaired_5.jpg": {
+        "Race": "german",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "dimgray",
+            "tan",
+            "skyblue"
+        ]
+    },
+    "Russian_Blue_1.jpg": {
+        "Race": "Russian",
+        "Image Hauteur": 239,
+        "Image Largeur": 200,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "dimgray",
+            "darkslategray"
+        ]
+    },
+    "japanese_chin_4.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "olivedrab",
+            "silver"
+        ]
+    },
+    "samoyed_5.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "darkslategray"
+        ]
+    },
+    "Sphynx_4.jpg": {
+        "Race": "Sphynx",
+        "Image Hauteur": 901,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "seagreen",
+            "rosybrown",
+            "darkslategray"
+        ]
+    },
+    "english_cocker_spaniel_10.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "saddlebrown",
+            "black",
+            "rosybrown"
+        ]
+    },
+    "staffordshire_bull_terrier_1.jpg": {
+        "Race": "staffordshire",
+        "Image Hauteur": 500,
+        "Image Largeur": 299,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "gray",
+            "darkolivegreen"
+        ]
+    },
+    "leonberger_6.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 398,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gainsboro",
+            "darkslategray",
+            "rosybrown"
+        ]
+    },
+    "Ragdoll_9.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "gray"
+        ]
+    },
+    "english_cocker_spaniel_7.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 356,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "gainsboro"
+        ]
+    },
+    "german_shorthaired_10.jpg": {
+        "Race": "german",
+        "Image Hauteur": 500,
+        "Image Largeur": 320,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "gainsboro",
+            "gray"
+        ]
+    },
+    "shiba_inu_6.jpg": {
+        "Race": "shiba",
+        "Image Hauteur": 354,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "Sphynx_2.jpg": {
+        "Race": "Sphynx",
+        "Image Hauteur": 196,
+        "Image Largeur": 275,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "cornflowerblue",
+            "silver",
+            "dimgray"
+        ]
+    },
+    "Russian_Blue_9.jpg": {
+        "Race": "Russian",
+        "Image Hauteur": 196,
+        "Image Largeur": 275,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "dimgray",
+            "rosybrown"
+        ]
+    },
+    "english_setter_4.jpg": {
+        "Race": "english",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "tan",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "Bengal_3.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 412,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "lightgray",
+            "darkolivegreen",
+            "gray"
+        ]
+    },
+    "wheaten_terrier_4.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "silver"
+        ]
+    },
+    "keeshond_6.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 500,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "darkslategray",
+            "gainsboro"
+        ]
+    },
+    "Abyssinian_10.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "rosybrown",
+            "darkslategray"
+        ]
+    },
+    "Persian_5.jpg": {
+        "Race": "Persian",
+        "Image Hauteur": 428,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "black",
+            "rosybrown"
+        ]
+    },
+    "boxer_6.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "saddlebrown",
+            "gainsboro"
+        ]
+    },
+    "Sphynx_9.jpg": {
+        "Race": "Sphynx",
+        "Image Hauteur": 500,
+        "Image Largeur": 459,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "dimgray"
+        ]
+    },
+    "keeshond_2.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 500,
+        "Image Largeur": 334,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "silver",
+            "darkslategray",
+            "rosybrown"
+        ]
+    },
+    "great_pyrenees_5.jpg": {
+        "Race": "great",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "darkkhaki",
+            "tan"
+        ]
+    },
+    "Maine_Coon_2.jpg": {
+        "Race": "Maine",
+        "Image Hauteur": 300,
+        "Image Largeur": 245,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "silver",
+            "saddlebrown",
+            "darkslateblue"
+        ]
+    },
+    "samoyed_7.jpg": {
+        "Race": "samoyed",
+        "Image Hauteur": 500,
+        "Image Largeur": 407,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "steelblue",
+            "lightgray",
+            "dimgray"
+        ]
+    },
+    "scottish_terrier_1.jpg": {
+        "Race": "scottish",
+        "Image Hauteur": 500,
+        "Image Largeur": 417,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkseagreen",
+            "darkslategray",
+            "olivedrab"
+        ]
+    },
+    "chihuahua_1.jpg": {
+        "Race": "chihuahua",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "gray",
+            "silver"
+        ]
+    },
+    "miniature_pinscher_5.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 500,
+        "Image Largeur": 375,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "black",
+            "darkgray"
+        ]
+    },
+    "beagle_2.jpg": {
+        "Race": "beagle",
+        "Image Hauteur": 332,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "silver",
+            "sienna",
+            "saddlebrown"
+        ]
+    },
+    "english_cocker_spaniel_3.jpg": {
+        "Race": "english",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "silver",
+            "darkslategray"
+        ]
+    },
+    "havanese_1.jpg": {
+        "Race": "havanese",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "dimgray",
+            "black"
+        ]
+    },
+    "english_setter_6.jpg": {
+        "Race": "english",
+        "Image Hauteur": 300,
+        "Image Largeur": 400,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkolivegreen",
+            "silver"
+        ]
+    },
+    "boxer_3.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "lightgray",
+            "gray"
+        ]
+    },
+    "japanese_chin_8.jpg": {
+        "Race": "japanese",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkgray",
+            "darkslategray",
+            "darkolivegreen"
+        ]
+    },
+    "pomeranian_3.jpg": {
+        "Race": "pomeranian",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "sienna",
+            "silver",
+            "gray"
+        ]
+    },
+    "Bengal_1.jpg": {
+        "Race": "Bengal",
+        "Image Hauteur": 901,
+        "Image Largeur": 600,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "darkslategray",
+            "peru"
+        ]
+    },
+    "Abyssinian_4.jpg": {
+        "Race": "Abyssinian",
+        "Image Hauteur": 500,
+        "Image Largeur": 335,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "black",
+            "darkslategray",
+            "black"
+        ]
+    },
+    "leonberger_2.jpg": {
+        "Race": "leonberger",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "peru",
+            "whitesmoke",
+            "darkslategray"
+        ]
+    },
+    "Bombay_2.jpg": {
+        "Race": "Bombay",
+        "Image Hauteur": 196,
+        "Image Largeur": 275,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "dimgray",
+            "darkgray"
+        ]
+    },
+    "Ragdoll_7.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "rosybrown"
+        ]
+    },
+    "Ragdoll_8.jpg": {
+        "Race": "Ragdoll",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "sienna"
+        ]
+    },
+    "Birman_5.jpg": {
+        "Race": "Birman",
+        "Image Hauteur": 335,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "saddlebrown",
+            "sienna",
+            "tan"
+        ]
+    },
+    "keeshond_1.jpg": {
+        "Race": "keeshond",
+        "Image Hauteur": 500,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "dimgray"
+        ]
+    },
+    "wheaten_terrier_5.jpg": {
+        "Race": "wheaten",
+        "Image Hauteur": 413,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkolivegreen",
+            "silver",
+            "gray"
+        ]
+    },
+    "german_shorthaired_3.jpg": {
+        "Race": "german",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkolivegreen",
+            "darkslategray",
+            "gray"
+        ]
+    },
+    "miniature_pinscher_9.jpg": {
+        "Race": "miniature",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "rosybrown",
+            "darkolivegreen",
+            "silver"
+        ]
+    },
+    "boxer_2.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 334,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "black",
+            "sienna",
+            "lightgray"
+        ]
+    },
+    "boxer_10.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 375,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "dimgray",
+            "lightsteelblue",
+            "darkslategray"
+        ]
+    },
+    "boxer_4.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "tan",
+            "darkslategray",
+            "darkolivegreen"
+        ]
+    },
+    "american_pit_bull_terrier_9.jpg": {
+        "Race": "american",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "darkslategray",
+            "silver",
+            "dimgray"
+        ]
+    },
+    "american_bulldog_3.jpg": {
+        "Race": "american",
+        "Image Hauteur": 287,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chats",
+        "Couleurs": [
+            "silver",
+            "saddlebrown",
+            "gray"
+        ]
+    },
+    "pug_10.jpg": {
+        "Race": "pug",
+        "Image Hauteur": 500,
+        "Image Largeur": 333,
+        "Mode": "RGB",
+        "Orientation": "Portrait",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "gray",
+            "darkslategray",
+            "tan"
+        ]
+    },
+    "boxer_1.jpg": {
+        "Race": "boxer",
+        "Image Hauteur": 333,
+        "Image Largeur": 500,
+        "Mode": "RGB",
+        "Orientation": "Paysage",
+        "Image anime": false,
+        "Animal": "Chiens",
+        "Couleurs": [
+            "darkslategray",
+            "darkgray",
+            "dimgray"
+        ]
     }
-]
+}
